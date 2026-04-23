@@ -1,0 +1,133 @@
+{
+    "categories": {
+        "avatars": {
+            "name": "🎨 Avatars",
+            "description": "Custom PNGTuber and VTube avatars for your streams",
+            "products": {
+                "png_avatar_basic": {
+                    "name": "PNG Avatar - Basic",
+                    "price": 15,
+                    "description": "2 custom PNG expressions + 1 pose",
+                    "delivery_time": "24-48 hours",
+                    "image_url": "https://example.com/png_basic_preview.png"
+                },
+                "png_avatar_premium": {
+                    "name": "PNG Avatar - Premium",
+                    "price": 35,
+                    "description": "8 expressions + 3 poses + animated mouth",
+                    "delivery_time": "3-5 days",
+                    "image_url": "https://example.com/png_premium_preview.png"
+                },
+                "vtube_model_basic": {
+                    "name": "VTube Model - Basic",
+                    "price": 150,
+                    "description": "Basic rigged Live2D model + 5 expressions",
+                    "delivery_time": "7-10 days",
+                    "image_url": "https://example.com/vtube_basic_preview.png"
+                },
+                "vtube_model_premium": {
+                    "name": "VTube Model - Premium",
+                    "price": 350,
+                    "description": "Full body rig + physics + 15 expressions + props",
+                    "delivery_time": "14-21 days",
+                    "image_url": "https://example.com/vtube_premium_preview.png"
+                }
+            }
+        },
+        "overlays": {
+            "name": "🖼️ Stream Overlays",
+            "description": "Professional overlays to level up your stream",
+            "products": {
+                "overlay_starter": {
+                    "name": "Starter Overlay Pack",
+                    "price": 25,
+                    "description": "Webcam frame + Starting Soon + BRB + Stream Ending screens",
+                    "delivery_time": "Instant (Digital)",
+                    "image_url": "https://example.com/overlay_starter.png"
+                },
+                "overlay_pro": {
+                    "name": "Pro Overlay Pack",
+                    "price": 60,
+                    "description": "10 scenes + Animated alerts + Sub goal + Chat overlay + Donation ticker",
+                    "delivery_time": "Instant (Digital)",
+                    "image_url": "https://example.com/overlay_pro.png"
+                },
+                "overlay_custom": {
+                    "name": "Custom Overlay Design",
+                    "price": 120,
+                    "description": "Fully custom overlay matching your brand - unlimited revisions",
+                    "delivery_time": "5-7 days",
+                    "image_url": "https://example.com/overlay_custom.png"
+                }
+            }
+        },
+        "emotes": {
+            "name": "😊 Twitch Emotes",
+            "description": "Custom emotes for your channel",
+            "products": {
+                "emote_basic_3": {
+                    "name": "Basic Emote Pack",
+                    "price": 30,
+                    "description": "3 custom emotes (1 free slot, 2 paid tier)",
+                    "delivery_time": "3-5 days",
+                    "image_url": "https://example.com/emotes_basic.png"
+                },
+                "emote_premium_6": {
+                    "name": "Premium Emote Pack",
+                    "price": 55,
+                    "description": "6 custom emotes (3 formats each: 28x28, 56x56, 112x112)",
+                    "delivery_time": "5-7 days",
+                    "image_url": "https://example.com/emotes_premium.png"
+                },
+                "animated_emotes": {
+                    "name": "Animated Emote Pack",
+                    "price": 80,
+                    "description": "4 animated GIF emotes + 2 static emotes",
+                    "delivery_time": "7-10 days",
+                    "image_url": "https://example.com/emotes_animated.png"
+                },
+                "badge_custom": {
+                    "name": "Custom Sub Badge",
+                    "price": 20,
+                    "description": "Custom subscriber badge for your channel",
+                    "delivery_time": "2-3 days",
+                    "image_url": "https://example.com/badge.png"
+                }
+            }
+        },
+        "stream_assets": {
+            "name": "🎮 Stream Assets",
+            "description": "Everything else you need for streaming",
+            "products": {
+                "panel_set": {
+                    "name": "Twitch Panel Set",
+                    "price": 15,
+                    "description": "5 custom panels (About, Schedule, Commands, Socials, Donate)",
+                    "delivery_time": "Instant (Digital)",
+                    "image_url": "https://example.com/panels.png"
+                },
+                "screen_transitions": {
+                    "name": "Screen Transitions",
+                    "price": 20,
+                    "description": "10 animated stinger transitions for OBS",
+                    "delivery_time": "Instant (Digital)",
+                    "image_url": "https://example.com/transitions.png"
+                },
+                "alert_sounds": {
+                    "name": "Alert Sound Pack",
+                    "price": 10,
+                    "description": "20 royalty-free alert sounds for followers/subs/bits",
+                    "delivery_time": "Instant (Digital)",
+                    "image_url": "https://example.com/sounds.png"
+                },
+                "banner_set": {
+                    "name": "Social Banner Set",
+                    "price": 25,
+                    "description": "YouTube banner + Twitter header + Discord server banner",
+                    "delivery_time": "3-4 days",
+                    "image_url": "https://example.com/banners.png"
+                }
+            }
+        }
+    }
+}

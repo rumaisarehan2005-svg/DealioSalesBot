@@ -1,0 +1,24 @@
+[
+    {
+        "order_id": "ORD-20241201120000-123456789",
+        "user_id": 123456789,
+        "user_name": "StreamerName#1234",
+        "items": [
+            {
+                "category": "avatars",
+                "product_key": "png_avatar_basic",
+                "name": "PNG Avatar - Basic",
+                "price": 15
+            },
+            {
+                "category": "emotes",
+                "product_key": "emote_basic_3",
+                "name": "Basic Emote Pack",
+                "price": 30
+            }
+        ],
+        "total": 45,
+        "status": "pending_payment",
+        "created_at": "2024-12-01T12:00:00"
+    }
+]
